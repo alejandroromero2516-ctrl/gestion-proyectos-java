@@ -1,0 +1,9 @@
+# Archivos compilados
+/bin/
+/out/
+*.class
+
+# Archivos de Eclipse
+/.classpath
+/.project
+/.settings/
